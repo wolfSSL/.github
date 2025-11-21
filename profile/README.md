@@ -49,7 +49,7 @@
 - **[wolfSentry](https://github.com/wolfSSL/wolfsentry)** - Embedded firewall and intrusion prevention system
 - **[wolfHSM](https://github.com/wolfSSL/wolfHSM)** - Portable software HSM library
 - **[wolfPKCS11](https://github.com/wolfssl/wolfpkcs11)** - PKCS#11 interface for wolfCrypt
-- **[wolfPKCS11](https://github.com/wolfssl/wolfIP)** - TCP/IP stack with no dynamic memory allocations
+- **[wolfIP](https://github.com/wolfssl/wolfIP)** - TCP/IP stack with no dynamic memory allocations
 
 ### Command Line Tools
 
