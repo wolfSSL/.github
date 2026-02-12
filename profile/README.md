@@ -71,7 +71,7 @@
 - **[wolfBoot Examples](https://github.com/wolfSSL/wolfBoot-examples)** - wolfBoot examples
 - **[wolfSSH Examples](https://github.com/wolfSSL/wolfssh-examples)** - wolfSSH library examples
 - **[wolfPKCS11 Examples](https://github.com/wolfSSL/wolfPKCS11-examples)** - wolfPKCS11 library examples
-- **[wolfHSM Examples](https://github.com/wolfSSL/wolfHSM-examples)** - wolfHSM library examples
+- **[wolfHSM Examples](https://github.com/wolfSSL/wolfHSM/tree/main/examples)** - wolfHSM library examples
 
 ### Platform and Open Source Project Integrations
 
