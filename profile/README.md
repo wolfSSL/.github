@@ -50,6 +50,7 @@
 - **[wolfHSM](https://github.com/wolfSSL/wolfHSM)** - Portable software HSM library
 - **[wolfPKCS11](https://github.com/wolfssl/wolfpkcs11)** - PKCS#11 interface for wolfCrypt
 - **[wolfIP](https://github.com/wolfssl/wolfIP)** - TCP/IP stack with no dynamic memory allocations
+- **[wolfGuard](https://github.com/wolfSSL/wolfGuard)** - FIPS 140-3 compliant WireGuard VPN powered by wolfCrypt
 
 ### Command Line Tools
 
